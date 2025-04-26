@@ -1,0 +1,101 @@
+nome_cliente,cidade,estado,nome_produto,categoria,fabricante,data,qtd_vendida,valor_total
+Lucas Pereira,Porto Alegre,RS,Detergente,Limpeza,Ypê,2024-01-26,6,90
+Lucas Pereira,Porto Alegre,RS,Feijão,Alimento,Kicaldo,2024-01-14,10,240
+Ana Oliveira,Rio de Janeiro,RJ,Refrigerante,Bebida,Coca-Cola,2024-01-15,3,150
+Pedro Santos,Curitiba,PR,Feijão,Alimento,Kicaldo,2024-01-28,4,152
+Pedro Santos,Curitiba,PR,Arroz,Alimento,Camil,2024-01-24,3,87
+Pedro Santos,Curitiba,PR,Refrigerante,Bebida,Coca-Cola,2024-01-10,6,192
+João Silva,São Paulo,SP,Detergente,Limpeza,Ypê,2024-01-02,10,190
+Lucas Pereira,Porto Alegre,RS,Feijão,Alimento,Kicaldo,2024-01-17,10,260
+Pedro Santos,Curitiba,PR,Sabão em pó,Limpeza,OMO,2024-01-24,2,90
+João Silva,São Paulo,SP,Feijão,Alimento,Kicaldo,2024-01-19,10,470
+Pedro Santos,Curitiba,PR,Refrigerante,Bebida,Coca-Cola,2024-01-26,7,273
+Lucas Pereira,Porto Alegre,RS,Arroz,Alimento,Camil,2024-01-19,2,42
+Ana Oliveira,Rio de Janeiro,RJ,Sabão em pó,Limpeza,OMO,2024-01-09,3,57
+Maria Souza,Belo Horizonte,MG,Arroz,Alimento,Camil,2024-01-02,5,220
+João Silva,São Paulo,SP,Detergente,Limpeza,Ypê,2024-01-13,3,39
+Ana Oliveira,Rio de Janeiro,RJ,Detergente,Limpeza,Ypê,2024-01-21,1,33
+João Silva,São Paulo,SP,Refrigerante,Bebida,Coca-Cola,2024-01-19,9,162
+Pedro Santos,Curitiba,PR,Arroz,Alimento,Camil,2024-01-05,5,35
+Maria Souza,Belo Horizonte,MG,Sabão em pó,Limpeza,OMO,2024-01-19,3,117
+João Silva,São Paulo,SP,Arroz,Alimento,Camil,2024-01-04,9,441
+Maria Souza,Belo Horizonte,MG,Refrigerante,Bebida,Coca-Cola,2024-01-08,5,115
+Ana Oliveira,Rio de Janeiro,RJ,Sabão em pó,Limpeza,OMO,2024-01-16,8,120
+Maria Souza,Belo Horizonte,MG,Refrigerante,Bebida,Coca-Cola,2024-01-05,10,170
+Pedro Santos,Curitiba,PR,Refrigerante,Bebida,Coca-Cola,2024-01-01,7,266
+João Silva,São Paulo,SP,Refrigerante,Bebida,Coca-Cola,2024-01-21,5,120
+João Silva,São Paulo,SP,Arroz,Alimento,Camil,2024-01-30,3,48
+João Silva,São Paulo,SP,Feijão,Alimento,Kicaldo,2024-01-30,3,87
+João Silva,São Paulo,SP,Arroz,Alimento,Camil,2024-01-24,7,273
+João Silva,São Paulo,SP,Sabão em pó,Limpeza,OMO,2024-01-07,4,52
+Ana Oliveira,Rio de Janeiro,RJ,Sabão em pó,Limpeza,OMO,2024-01-20,1,48
+Lucas Pereira,Porto Alegre,RS,Sabão em pó,Limpeza,OMO,2024-01-11,8,264
+Pedro Santos,Curitiba,PR,Refrigerante,Bebida,Coca-Cola,2024-01-10,8,104
+Ana Oliveira,Rio de Janeiro,RJ,Feijão,Alimento,Kicaldo,2024-01-23,5,205
+Maria Souza,Belo Horizonte,MG,Sabão em pó,Limpeza,OMO,2024-01-07,3,93
+Ana Oliveira,Rio de Janeiro,RJ,Feijão,Alimento,Kicaldo,2024-01-27,5,215
+Ana Oliveira,Rio de Janeiro,RJ,Feijão,Alimento,Kicaldo,2024-01-16,9,90
+Ana Oliveira,Rio de Janeiro,RJ,Feijão,Alimento,Kicaldo,2024-01-24,4,184
+Ana Oliveira,Rio de Janeiro,RJ,Feijão,Alimento,Kicaldo,2024-01-07,7,259
+João Silva,São Paulo,SP,Feijão,Alimento,Kicaldo,2024-01-25,9,45
+Maria Souza,Belo Horizonte,MG,Detergente,Limpeza,Ypê,2024-01-06,9,243
+Pedro Santos,Curitiba,PR,Detergente,Limpeza,Ypê,2024-01-05,3,27
+Ana Oliveira,Rio de Janeiro,RJ,Sabão em pó,Limpeza,OMO,2024-01-22,10,220
+Ana Oliveira,Rio de Janeiro,RJ,Sabão em pó,Limpeza,OMO,2024-01-20,8,48
+Lucas Pereira,Porto Alegre,RS,Detergente,Limpeza,Ypê,2024-01-02,7,343
+Lucas Pereira,Porto Alegre,RS,Detergente,Limpeza,Ypê,2024-01-12,6,204
+Pedro Santos,Curitiba,PR,Detergente,Limpeza,Ypê,2024-01-11,4,156
+João Silva,São Paulo,SP,Detergente,Limpeza,Ypê,2024-01-21,7,84
+Lucas Pereira,Porto Alegre,RS,Refrigerante,Bebida,Coca-Cola,2024-01-21,2,42
+Pedro Santos,Curitiba,PR,Detergente,Limpeza,Ypê,2024-01-30,4,20
+Lucas Pereira,Porto Alegre,RS,Refrigerante,Bebida,Coca-Cola,2024-01-02,4,184
+Pedro Santos,Curitiba,PR,Sabão em pó,Limpeza,OMO,2024-01-14,3,114
+João Silva,São Paulo,SP,Arroz,Alimento,Camil,2024-01-01,9,45
+João Silva,São Paulo,SP,Detergente,Limpeza,Ypê,2024-01-27,4,96
+Lucas Pereira,Porto Alegre,RS,Feijão,Alimento,Kicaldo,2024-01-30,2,12
+João Silva,São Paulo,SP,Detergente,Limpeza,Ypê,2024-01-04,8,368
+Pedro Santos,Curitiba,PR,Sabão em pó,Limpeza,OMO,2024-01-07,5,90
+Lucas Pereira,Porto Alegre,RS,Refrigerante,Bebida,Coca-Cola,2024-01-01,1,38
+João Silva,São Paulo,SP,Detergente,Limpeza,Ypê,2024-01-01,4,24
+Pedro Santos,Curitiba,PR,Sabão em pó,Limpeza,OMO,2024-01-16,7,154
+Ana Oliveira,Rio de Janeiro,RJ,Arroz,Alimento,Camil,2024-01-19,3,57
+João Silva,São Paulo,SP,Detergente,Limpeza,Ypê,2024-01-20,4,40
+João Silva,São Paulo,SP,Detergente,Limpeza,Ypê,2024-01-10,9,432
+Pedro Santos,Curitiba,PR,Feijão,Alimento,Kicaldo,2024-01-05,7,168
+Maria Souza,Belo Horizonte,MG,Refrigerante,Bebida,Coca-Cola,2024-01-20,4,148
+João Silva,São Paulo,SP,Feijão,Alimento,Kicaldo,2024-01-13,9,171
+Lucas Pereira,Porto Alegre,RS,Arroz,Alimento,Camil,2024-01-02,3,90
+João Silva,São Paulo,SP,Sabão em pó,Limpeza,OMO,2024-01-08,7,217
+Lucas Pereira,Porto Alegre,RS,Arroz,Alimento,Camil,2024-01-10,8,88
+Lucas Pereira,Porto Alegre,RS,Sabão em pó,Limpeza,OMO,2024-01-26,6,198
+Ana Oliveira,Rio de Janeiro,RJ,Refrigerante,Bebida,Coca-Cola,2024-01-21,6,174
+João Silva,São Paulo,SP,Arroz,Alimento,Camil,2024-01-14,8,320
+Lucas Pereira,Porto Alegre,RS,Feijão,Alimento,Kicaldo,2024-01-23,3,51
+Pedro Santos,Curitiba,PR,Sabão em pó,Limpeza,OMO,2024-01-19,10,390
+Lucas Pereira,Porto Alegre,RS,Refrigerante,Bebida,Coca-Cola,2024-01-12,5,160
+Lucas Pereira,Porto Alegre,RS,Feijão,Alimento,Kicaldo,2024-01-20,7,210
+Pedro Santos,Curitiba,PR,Detergente,Limpeza,Ypê,2024-01-18,10,240
+Lucas Pereira,Porto Alegre,RS,Sabão em pó,Limpeza,OMO,2024-01-17,7,140
+Ana Oliveira,Rio de Janeiro,RJ,Feijão,Alimento,Kicaldo,2024-01-10,1,43
+Ana Oliveira,Rio de Janeiro,RJ,Feijão,Alimento,Kicaldo,2024-01-29,10,110
+Pedro Santos,Curitiba,PR,Feijão,Alimento,Kicaldo,2024-01-29,5,65
+Lucas Pereira,Porto Alegre,RS,Feijão,Alimento,Kicaldo,2024-01-28,3,69
+Lucas Pereira,Porto Alegre,RS,Arroz,Alimento,Camil,2024-01-13,2,86
+Pedro Santos,Curitiba,PR,Detergente,Limpeza,Ypê,2024-01-30,4,196
+João Silva,São Paulo,SP,Refrigerante,Bebida,Coca-Cola,2024-01-25,1,21
+Ana Oliveira,Rio de Janeiro,RJ,Refrigerante,Bebida,Coca-Cola,2024-01-06,2,56
+Pedro Santos,Curitiba,PR,Feijão,Alimento,Kicaldo,2024-01-28,8,192
+Lucas Pereira,Porto Alegre,RS,Sabão em pó,Limpeza,OMO,2024-01-30,10,180
+João Silva,São Paulo,SP,Sabão em pó,Limpeza,OMO,2024-01-30,8,312
+Maria Souza,Belo Horizonte,MG,Refrigerante,Bebida,Coca-Cola,2024-01-11,1,9
+Pedro Santos,Curitiba,PR,Detergente,Limpeza,Ypê,2024-01-11,6,102
+Ana Oliveira,Rio de Janeiro,RJ,Detergente,Limpeza,Ypê,2024-01-20,1,37
+Ana Oliveira,Rio de Janeiro,RJ,Refrigerante,Bebida,Coca-Cola,2024-01-01,7,70
+Maria Souza,Belo Horizonte,MG,Sabão em pó,Limpeza,OMO,2024-01-13,1,47
+João Silva,São Paulo,SP,Arroz,Alimento,Camil,2024-01-13,9,423
+Maria Souza,Belo Horizonte,MG,Arroz,Alimento,Camil,2024-01-02,8,272
+João Silva,São Paulo,SP,Feijão,Alimento,Kicaldo,2024-01-09,1,46
+Maria Souza,Belo Horizonte,MG,Feijão,Alimento,Kicaldo,2024-01-05,10,360
+João Silva,São Paulo,SP,Arroz,Alimento,Camil,2024-01-02,5,120
+Ana Oliveira,Rio de Janeiro,RJ,Detergente,Limpeza,Ypê,2024-01-15,2,36
+Ana Oliveira,Rio de Janeiro,RJ,Refrigerante,Bebida,Coca-Cola,2024-01-01,8,88
